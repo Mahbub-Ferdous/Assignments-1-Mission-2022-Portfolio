@@ -1,0 +1,47 @@
+.flex-container{
+    display: flex;
+    font-family: 'Poppins', sans-serif;
+    
+    
+    
+}
+.half-width{
+    width: 80%;
+    padding-left: 10%;
+    
+}
+.half-width img{
+    width: 60%;
+    padding-left: 10%;
+}
+span{
+    color: rgba(255, 123, 0, 0.822);
+}
+
+.half-width h1{
+    font-size: 50px;
+    font-family: Abril Fatface, cursive;
+    border-left: 3px solid;
+    border-image: linear-gradient(blue, cyan);
+    border-image-slice: 1;
+    padding: 20px;
+
+}
+/* button styles */
+
+.button-style{
+    background-color: blue;
+    padding: 10px 40px;
+    border-radius: 10px;
+    background-image: linear-gradient(blue, cyan);
+    color: whitesmoke;
+    font-weight: 700;
+    padding-bottom: 10px;
+    text-decoration: none;
+
+}
+.description{
+    margin-bottom: 30px;
+}
+
+
